@@ -8,25 +8,37 @@ The project covers the complete data analysis workflow, including Excel for data
 
 🎯 Objectives
 Analyze booking trends and ride performance.
+
 Identify ride cancellation reasons.
+
 Measure customer and driver ratings.
+
 Analyze payment methods and booking value.
+
 Build an interactive dashboard for business decision-making.
 
 
 
 
 🛠️ Tools & Technologies Used
+
 Microsoft Excel (Data Cleaning & Preparation)
+
 SQL (Data Analysis)
+
 Power BI (Dashboard & Visualization)
 
 
 
 📊 Dataset Information
+
 Dataset Size: 1,00,000+ Rows
+
 Industry: Ride Booking
+
 Domain: Transportation & Mobility
+
+
 📈 SQL Analysis
 
 The following business questions were solved using SQL:
